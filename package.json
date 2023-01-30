@@ -41,5 +41,9 @@
     "*.{js,ts,tsx}": [
       "eslint --fix"
     ]
+  },
+  "dependencies": {
+    "@dbml/core": "^2.4.4",
+    "json-pick-keys": "^0.1.1"
   }
 }
