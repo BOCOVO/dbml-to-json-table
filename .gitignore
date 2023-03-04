@@ -128,3 +128,9 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Ignore exemple's node_modules
+exemple/node_modules/*
+
+# Ignore rollup cache
+.rollup.cache/*
